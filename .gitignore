@@ -67,10 +67,13 @@ Assets/GarageWareGames.meta
 Assets/Instant Tools/*
 Assets/Instant Tools.meta
 Assets/SceneDependencyCache/*
+Assets/SceneDependencyCache.meta
 Assets/Testing/*
 Assets/Testing.meta
 Assets/_3rd-Party/*
 Assets/_3rd-Party.meta
+Assets/Plugins/*
+Assets/Plugins.meta
 SceneBackups*
 
 Packages/
